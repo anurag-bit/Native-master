@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Real",
+    "icon": "/home/ravi/Desktop/Native-master/Real/assets/Background.png",
+    "version": "1.0.0",
+    "slug": "Weather",
+    "ios": {
+      "bundleIdentifier": "com.Arc.Real",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.Arc.Real",
+      "versionCode": 1
+    },
+    "description": "A No Nonsense Weather App.\nTry it!.",
+    "githubUrl": "https://github.com/anurag-bit/Native-master"
+  }
+}
+
+
+    
+     
+
+
